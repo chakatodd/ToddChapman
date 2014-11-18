@@ -1,7 +1,9 @@
 ##H. TODD CHAPMAN
+
 ---
 
-25 DEVONSHIRE RD., PLEASANT RIDGE, MI 48069  
+25 DEVONSHIRE RD.,  
+PLEASANT RIDGE, MI 48069  
 248.506.7156  
 todd@chaka.net   
 
@@ -21,22 +23,22 @@ short sprints with frequent releases, pair programming, daily stand-ups, and con
 *   Use distributed version control systems. Git/Mercurial
 *   Mentored associate software engineers, presented at lunch-and-learn sessions, created screencasts, and conducted code reviews. 
 *   Helped build and maintain custom web framework (Toybox2) that drives thousands of ePrize promotions with millions of distinct users annually. (perl/java/mysql) 
-    **   Integrated Facebook using the Graph API for frictionless participation. 
-    **   Implemented several systems to help prevent promotion fraud including limits  based on IP address, origination of IP address, dynamic display of CAPTCHA, and  delivery point verification of mailing addresses. 
+*   Integrated Facebook using the Graph API for frictionless participation. 
+*   Implemented several systems to help prevent promotion fraud including limits  based on IP address, origination of IP address, dynamic display of CAPTCHA, and  delivery point verification of mailing addresses. 
 *   Built a lightweight, RESTful service for storing configuration. (java/mongodb)
 *   Extended large code base acquired from another company and integrated with existing systems. (java/postgres/tomcat/maven)
 *   Built development virtual machine using Virtualbox, Vagrant, and Puppet. 
-*   Built a service for distributing, validating, and consuming electronic codes, used by ePrize’s  loyalty promotions (My Coke Rewards, Miller High Life Extras, Outback Rewards, etc.) and  by all promotions requiring keyword of the day or alternate method of entry. For example  Versus ran a promotion during the 2011 Tour de France where a keyword was announced  during each day’s stage that could be used to enter a sweepstakes. (perl) 
+*   Built a service for distributing, validating, and consuming electronic codes, used by ePrize's  loyalty promotions (My Coke Rewards, Miller High Life Extras, Outback Rewards, etc.) and  by all promotions requiring keyword of the day or alternate method of entry. For example  Versus ran a promotion during the 2011 Tour de France where a keyword was announced  during each day's stage that could be used to enter a sweepstakes. (perl) 
 *   Built a highly flexible rules engine for placing limits on users and events. The project has a high adoption rate for use within ePrize. (perl)
 *   Reduced contention for hosting resources by implementing encrypted client side sessions. This allows web clients to store their own session data instead of using back end databases or file systems. (perl/java) 
-*   Wrote the official Michigan Lottery iPhone app, which communicates with ePrize’s RESTful web services.
+*   Wrote the official Michigan Lottery iPhone app, which communicates with ePrize's RESTful web services.
 *   Built an asynchronous SMS gateway enabling text-to-win promotions. 
-*   Pulled ePrize’s customer support organization from the dark ages by implementing and customizing an open source request tracking system. 
-*   Voted ePrize’s Most Innovative Individual 2007. 
+*   Pulled ePrize's customer support organization from the dark ages by implementing and customizing an open source request tracking system. 
+*   Voted ePrize's Most Innovative Individual 2007. 
 
 **Independent Software Consultant**  
 Self Employed  
-01/1998 – Present  
+01/1998 - Present  
 
 *   Developed an Android app that runs as a background service, turning inexpensive Kindle Fires into digital photo frames.
 *   Developed iOS App, with Facebook, Stackmob, and Heroku integration.
@@ -44,7 +46,7 @@ Self Employed
  
 **Senior Security Consultant, Tool Developer & UNIX Administrator**  
 gedas USA  
-06/2001 – 11/2006  
+06/2001 - 11/2006  
 Auburn Hills, MI  
  
 *   Provided a variety of consulting services concentrating in security and Perl based tools, for Volkswagen/Audi of America. 
@@ -71,34 +73,34 @@ Auburn Hills, MI
  
 **Senior Consultant**  
 Collective Technologies  
-04/1998 – 06/2001  
+04/1998  06/2001  
 Austin, TX  
  
-* Performed consulting service for a variety of companies in the following disciplines:
-
-  Perl Programming
-
-  Authored data translators and web based application with Oracle and MySQL databases.  Built a scalable system for distributing large amounts of content to web servers within a maintenance window (for Amazon.com). Reverse engineered application protocols and built client libraries using Perl and network traffic analyzer. 
- 
-  System Administration
-
-  Administer heterogeneous networks of Unix and NT systems using NFS, NIS, and Samba.  Implemented multi-platform backup solution using Legato NetWorker. Upgraded systems for Y2K compliance. Wrote disaster recovery procedures for IRIX systems.
-
-  Security and Networking
-
-  Installed and maintained Firewall-1, Cisco PIX, and Linux firewalls for perimeter security  and departmental segmentation.  Installed Cisco switches and maintained router ACLs. Designed and implemented security for multiple clients.
-
-  Linux/AIX Clustering
-
-  Installed and maintained Beowulf Linux cluster for Ford motor company. Installed and  maintained HACMP cluster for cluster for major medical provider. Optimized use of cluster through implementation of a batch queuing system. Benchmarked applications and libraries.  Documented cluster and trained client staff on its usage. 
+* Performed consulting service for a variety of companies in the following disciplines:  
+    
+    Perl Programming  
   
-  Corporate Development/Training
-
-  Interviewed technical candidates for consulting positions and for client staffing. Participated  in sales calls and wrote proposals for potential clients. Developed software applications for internal use. Represented the company at conferences. Identified consulting opportunities  and reported them to management. 
+    Authored data translators and web based application with Oracle and MySQL databases.  Built a scalable system for distributing large amounts of content to web servers within a maintenance window (for Amazon.com). Reverse engineered application protocols and built client libraries using Perl and network traffic analyzer.  
+    
+    System Administration
+    
+    Administer heterogeneous networks of Unix and NT systems using NFS, NIS, and Samba.  Implemented multi-platform backup solution using Legato NetWorker. Upgraded systems for Y2K compliance. Wrote disaster recovery procedures for IRIX systems.
+    
+    Security and Networking
+    
+    Installed and maintained Firewall-1, Cisco PIX, and Linux firewalls for perimeter security  and departmental segmentation.  Installed Cisco switches and maintained router ACLs. Designed and implemented security for multiple clients.
+    
+    Linux/AIX Clustering
+    
+    Installed and maintained Beowulf Linux cluster for Ford motor company. Installed and  maintained HACMP cluster for cluster for major medical provider. Optimized use of cluster through implementation of a batch queuing system. Benchmarked applications and libraries.  Documented cluster and trained client staff on its usage. 
+    
+    Corporate Development/Training
+    
+    Interviewed technical candidates for consulting positions and for client staffing. Participated  in sales calls and wrote proposals for potential clients. Developed software applications for internal use. Represented the company at conferences. Identified consulting opportunities  and reported them to management. 
 
 **Engineer**  
 The Budd Company  
-05/1993–04/1998  
+05/1993 - 04/1998  
 Auburn Hills, MI  
 
 *   Served as the sole administrator of a heterogeneous Unix/Windows network. 
@@ -129,7 +131,7 @@ Auburn Hills, MI
 
 *   Technical Reviewer, RT Essentials,
     Vincent, et al,
-    O’Reilly 2005,
+    O'Reilly 2005,
     ISBN: 0596006683 
 
      
@@ -162,5 +164,4 @@ Other: MCSE, HPUX, CCSA
 
     Digital Detroit Business & Technology Security Summit 2002 
     Subject: Intrusion Detection Systems 
-
 
